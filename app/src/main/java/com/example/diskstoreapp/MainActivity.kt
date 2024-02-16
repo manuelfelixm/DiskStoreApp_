@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
         db.diskDao().save(Disk1)
 
         val Disk2 = Disk(
-            serialnumber = "34",
+            serialnumber = "33",
             title = "El Nano",
             author = "Melendi",
             year = "2005"
